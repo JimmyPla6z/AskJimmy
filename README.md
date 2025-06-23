@@ -1,6 +1,6 @@
 # AskJimmy
 
-Welcome to **AskJimmy**, the open space where you can reach out to **JimmyPla6z** directly via GitHub Discussions.
+Welcome to **AskJimmy**, the open space where you can reach out to **me** directly via GitHub Discussions.
 
 Have a question, idea, suggestion, or just something cool to share? Start a [new discussion](https://github.com/JimmyPla6z/AskJimmy/discussions) and let’s chat!
 
